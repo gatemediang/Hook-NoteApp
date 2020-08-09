@@ -8,7 +8,7 @@ Run this command from your terminal:
 
 ```
 git clone https://github.com/gatemediang/Hook-NoteApp.git
-``\
+``
 
 This will create a directory in the name of the project folder. In this case, `react-hooks-starter-project`.
 
