@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+/*import React, { Component } from "react";
 
 class Header extends Component {
   componentDidUpdate(prevProps, prevState) {
@@ -30,5 +30,58 @@ class Header extends Component {
     );
   }
 }
+
+export default Header;*/
+import React, { useEffect, useRef } from "react";
+
+const Header = (props) => {
+  const headerStyle = {
+    padding: "20px 0",
+    lineHeight: "2em",
+  };
+
+  const isInitialMount = useRef(true);
+
+  console.log(isInitialMount);
+
+  useEffect(() => {
+    var x = Math.floor(Math.random() * 256);
+    var y = Math.floor(Math.random() * 256);
+    var z = Math.floor(Math.random() * 256);
+    var bgColor = "rgb(" + x + "," + y + "," + z + ")";
+
+    if (isInitialMount.current) {
+      isInitialMount.current = false;
+    } else {
+      document.getElementById("inH1").innerHTML = "clicked";
+      document.getElementById("inH1").style.backgroundColor = bgColor;
+    }
+  }, [props.headerSpan]);
+
+  return (
+    <header style={headerStyle}>
+      <h1
+        style={{
+          fontSize: "25px",
+          textAlign: "center",
+          marginBottom: "15px",
+          color: "#038203",
+        }}
+      >
+        Hook NoteApp <span id="inH1"></span>
+      </h1>
+      <p
+        style={{
+          fontSize: "19px",
+          fontStyle: "italic",
+          textAlign: "center",
+          color: "#038203",
+        }}
+      >
+        Please add to-dos item(s) through the input field
+      </p>
+    </header>
+  );
+};
 
 export default Header;
