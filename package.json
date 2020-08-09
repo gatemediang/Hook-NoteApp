@@ -2,7 +2,7 @@
   "name": "simple-todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ibaslogic.github.io/react-hooks-starter-project",
+  "homepage": "https://gatemediang.github.io/Hook-NoteApp",
   "dependencies": {
     "axios": "^0.19.2",
     "gh-pages": "^2.1.1",

@@ -1,27 +1,25 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![NiFix-NoteApp](/public/todo.PNG)
 
-Test this app:
-
-[React hooks starter for todos app](https://ibaslogic.github.io/react-hooks-starter-project/)
+View app [here](https://gatemediang.github.io/Hook-NoteApp)
 
 ## Clone this project
-
-You can follow my React Hook tutorial by cloning this starting project.
 
 Run this command from your terminal:
 
 ```
-git clone https://github.com/Ibaslogic/react-hooks-starter-project
-```
+git clone https://github.com/gatemediang/Hook-NoteApp.git
+``\
 
 This will create a directory in the name of the project folder. In this case, `react-hooks-starter-project`.
 
 Once you have the project files and folders bootstrapped, open it with your text editor. Here, I will be using VsCode.
 
-Next, switch inside the directory (`cd react-hooks-starter-project`) and run:
+Next, switch inside the directory (`cd Hook-NoteApp`) and run:
 
 ```
+
 npm install
+
 ```
 
 This will install all the necessary dependencies in the local `node_modules` folder.
@@ -29,7 +27,10 @@ This will install all the necessary dependencies in the local `node_modules` fol
 Finally, start your development server by running:
 
 ```
+
 npm start
+
 ```
 
 You should see this app in your browser address bar at [http://localhost:3000](http://localhost:3000)
+```
