@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/NiFix-NoteApp/static/css/main.42cdd13d.chunk.css",
-    "main.js": "/NiFix-NoteApp/static/js/main.518bca3a.chunk.js",
-    "main.js.map": "/NiFix-NoteApp/static/js/main.518bca3a.chunk.js.map",
-    "runtime-main.js": "/NiFix-NoteApp/static/js/runtime-main.f123f0b7.js",
-    "runtime-main.js.map": "/NiFix-NoteApp/static/js/runtime-main.f123f0b7.js.map",
-    "static/js/2.61deaafd.chunk.js": "/NiFix-NoteApp/static/js/2.61deaafd.chunk.js",
-    "static/js/2.61deaafd.chunk.js.map": "/NiFix-NoteApp/static/js/2.61deaafd.chunk.js.map",
-    "index.html": "/NiFix-NoteApp/index.html",
-    "precache-manifest.fa444b76d153d34e4d723b14d6382125.js": "/NiFix-NoteApp/precache-manifest.fa444b76d153d34e4d723b14d6382125.js",
-    "service-worker.js": "/NiFix-NoteApp/service-worker.js",
-    "static/css/main.42cdd13d.chunk.css.map": "/NiFix-NoteApp/static/css/main.42cdd13d.chunk.css.map",
-    "static/js/2.61deaafd.chunk.js.LICENSE.txt": "/NiFix-NoteApp/static/js/2.61deaafd.chunk.js.LICENSE.txt"
+    "main.css": "/Hook-NoteApp/static/css/main.42cdd13d.chunk.css",
+    "main.js": "/Hook-NoteApp/static/js/main.518bca3a.chunk.js",
+    "main.js.map": "/Hook-NoteApp/static/js/main.518bca3a.chunk.js.map",
+    "runtime-main.js": "/Hook-NoteApp/static/js/runtime-main.6ca664f8.js",
+    "runtime-main.js.map": "/Hook-NoteApp/static/js/runtime-main.6ca664f8.js.map",
+    "static/js/2.61deaafd.chunk.js": "/Hook-NoteApp/static/js/2.61deaafd.chunk.js",
+    "static/js/2.61deaafd.chunk.js.map": "/Hook-NoteApp/static/js/2.61deaafd.chunk.js.map",
+    "index.html": "/Hook-NoteApp/index.html",
+    "precache-manifest.4a2b8142b3a92d2f6248fb0327cd87c4.js": "/Hook-NoteApp/precache-manifest.4a2b8142b3a92d2f6248fb0327cd87c4.js",
+    "service-worker.js": "/Hook-NoteApp/service-worker.js",
+    "static/css/main.42cdd13d.chunk.css.map": "/Hook-NoteApp/static/css/main.42cdd13d.chunk.css.map",
+    "static/js/2.61deaafd.chunk.js.LICENSE.txt": "/Hook-NoteApp/static/js/2.61deaafd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f123f0b7.js",
+    "static/js/runtime-main.6ca664f8.js",
     "static/js/2.61deaafd.chunk.js",
     "static/css/main.42cdd13d.chunk.css",
     "static/js/main.518bca3a.chunk.js"
